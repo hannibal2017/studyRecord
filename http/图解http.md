@@ -1,9 +1,9 @@
 [图解http](https://book.douban.com/subject/25863515/)   [电子书PDF](https://pan.baidu.com/s/1tYSRQnibqf-1mqnJWUlfBQ) <br>
-### 一、
+#### 一、
 HTTP（HyperText Transfer Protocol，超文本传输协议）<br>
 通常使用的网络（包括互联网）是在 TCP/IP 协议族的基础上运作
 的。而 HTTP 属于它内部的一个子集。
-### 二、
+#### 二、
 下面则是从客户端发送给某个 HTTP 服务器端的请求报文中的内容：
 
 GET /index.htm HTTP/1.1 <br>
@@ -42,5 +42,6 @@ body）。
 ![http响应报文](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550048443(1).jpg) <br>
 图：响应报文<br>
 
+#### 三、
 http三次握手: <br>
 ![http三次握手](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550044365.jpg)
