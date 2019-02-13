@@ -45,3 +45,6 @@ body）。
 #### 三、
 http三次握手: <br>
 ![http三次握手](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550044365.jpg)
+
+#### 四、
+https [HTTPS原理和CA证书申请](http://blog.51cto.com/11883699/2160032)
