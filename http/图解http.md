@@ -41,5 +41,6 @@ body）。
 
 ![http响应报文](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550048443(1).jpg) <br>
 图：响应报文<br>
+
 http三次握手: <br>
 ![http三次握手](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550044365.jpg)
