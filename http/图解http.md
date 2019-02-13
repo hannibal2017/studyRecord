@@ -6,7 +6,7 @@ HTTP（HyperText Transfer Protocol，超文本传输协议）<br>
 二、
 下面则是从客户端发送给某个 HTTP 服务器端的请求报文中的内容：
 
-GET /index.htm HTTP/1.1
+GET /index.htm HTTP/1.1 <br>
 Host: hackr.jp
 
 起始行开头的GET表示请求访问服务器的类型，称为方法
@@ -19,15 +19,15 @@ Host: hackr.jp
 和内容实体构成的
   
  ![请求报文](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550048364.jpg) <br>
+ 图：请求报文 <br>
  接收到请求的服务器，会将请求内容的处理结果以响应的形式返回.
  
- 
- HTTP/1.1 200 OK
-Date: Tue, 10 Jul 2012 06:50:15 GMT
-Content-Length: 362
-Content-Type: text/html
-<html>
-……
+ HTTP/1.1 200 OK <br>
+Date: Tue, 10 Jul 2012 06:50:15 GMT<br>
+Content-Length: 362<br>
+Content-Type: text/html<br>
+<html><br>
+……<br>
 
 在起始行开头的 HTTP/1.1 表示服务器对应的 HTTP 版本。
 紧挨着的 200 OK 表示请求的处理结果的状态码（status code）和原因
@@ -37,8 +37,9 @@ Content-Type: text/html
 body）。
 响应报文基本上由协议版本、状态码（表示请求成功或失败的数字代
 码）、用以解释状态码的原因短语、可选的响应首部字段以及实体主
-体构成。稍后我们会对这些内容进行详细说明
+体构成。
 
-![http响应报文](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550048443(1).jpg)
+![http响应报文](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550048443(1).jpg) <br>
+图：响应报文<br>
 http三次握手: <br>
 ![http三次握手](https://github.com/hannibal2017/studyRecord/blob/master/picture/1550044365.jpg)
