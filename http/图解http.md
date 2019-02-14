@@ -48,3 +48,9 @@ http三次握手: <br>
 
 #### 四、
 https [HTTPS原理和CA证书申请](http://blog.51cto.com/11883699/2160032)
+步骤整理如下：<br>
+1. 以阿里云的举例，进入[阿里云ssl](https://common-buy.aliyun.com/?spm=5176.7968328.1266638..15c812325jEN1k&commodityCode=cas#/buy) 
+2. 选择symantec，免费型DV ssl，购买
+3. 到ssl控制台，添加申请信息。域名要先提前申请注册。添加后，等待生效，一般是几个小时。
+4. NGINX和Tomact修改相关的信息，详情查看[HTTPS原理和CA证书申请](http://blog.51cto.com/11883699/2160032)相关的部分
+
