@@ -1,12 +1,13 @@
 ### 四大方面
 
-	 <span id = "jump1">一、java</span>	 
+	 <span id = "jump1">一、java</span>
+	 [一、java](#jump1)
 	 二、数据库
 	 三、前端
 	 四、其他
 
 
-[00](#jump1)
+<span id = "jump1">一、java44444</span>
 #### 一、java
 Java包括三个方面：   
 1、Java虚拟机jvm  
