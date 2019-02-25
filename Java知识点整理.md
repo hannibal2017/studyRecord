@@ -6,7 +6,7 @@
 	 四、其他
 
 
-<span id = "jump1">
+<span id = "jump1">00</span>
 #### 一、java
 Java包括三个方面：   
 1、Java虚拟机jvm  
@@ -21,7 +21,6 @@ Java包括三个方面：
 5,并发，多线程方面  
   《Java并发编程的艺术》、《Java多线程编程核心技术》  
   [并发、多线程.md](https://github.com/hannibal2017/studyRecord/blob/master/java/%E5%B9%B6%E5%8F%91%E3%80%81%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
-</span>
 ####  二、数据库
  掌握常用操作，了解一些理论、高级操作，优化等，参考书《高性能MySQL》  
 这方面只是了解常用的增删查改是不够的。  
