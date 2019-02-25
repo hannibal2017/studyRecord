@@ -1,10 +1,8 @@
 ### 四大方面
-	 [一,java](#1)
-	 二、数据库
-	 三、前端
-	 四、其他
-
-[一,java](#1)
+[一、java](#1)
+[二、数据库](#2)
+[三、前端](#3)
+[四、其他](#4)
 ####  <h2 id = "1">一、java </h2>
 Java包括三个方面：   
 1、Java虚拟机jvm  
@@ -19,15 +17,15 @@ Java包括三个方面：
 5,并发，多线程方面  
   《Java并发编程的艺术》、《Java多线程编程核心技术》  
   [并发、多线程.md](https://github.com/hannibal2017/studyRecord/blob/master/java/%E5%B9%B6%E5%8F%91%E3%80%81%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
-####  二、数据库
+####  <h2 id = "2">二、数据库 </h2>
  掌握常用操作，了解一些理论、高级操作，优化等，参考书《高性能MySQL》  
 这方面只是了解常用的增删查改是不够的。  
 内存数据库（noSql）：redis，memcached,mongoDb  
-####  三、前端
+####  <h2 id = "3">三、前端 </h2>
 了解常用html,css,javascript,掌握jQuery。  
 模板，模块化  
 前端框架的使用，如easy UI和bootstrap等   
-#### 四、其他
+#### <h2 id = "4">四、其他 </h2>
  工具和理论  
  计算机基础：了解计算机系统、算法、http原理、计算机组成原理，计算机网络： 1，osi七层模型；2，tcp/ip协议。  
  工具：开发myeclipse，项目包管理maven，代码版本管理git  
